@@ -25,6 +25,6 @@ Warehouse QR Code Management System is a Java-based console application designed
 ## 👤 Author
 
 VIGNESH V B  
-📧 Email: vignesh@example.com  
+📧 Email: vigneshbe025@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/vignesh-v-b-581599266
 
